@@ -13,6 +13,7 @@ dependencies:
   - jupyter>=1.0.0
   - basemap>=1.2.1
   - basemap-data-hires
+  - requests
   - pip:
     - missingno
     - pandas_profiling
