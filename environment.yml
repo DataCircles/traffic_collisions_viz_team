@@ -1,0 +1,20 @@
+name: seattle-traffic
+channels:
+  - defaults
+dependencies:
+  - python>=3.7.7
+  - pandas>=1.0.3
+  - numpy>=1.18.1
+  - scikit-learn>=0.22.1
+  - matplotlib>=3.1.3
+  - pip>=20.0.2
+  - seaborn>=0.10.1
+  - pillow
+  - jupyter>=1.0.0
+  - basemap>=1.2.1
+  - basemap-data-hires
+  - pip:
+    - missingno
+    - pandas_profiling
+#    - keras>=2.3.1
+#    - tensorflow>=2.2.0
