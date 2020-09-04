@@ -16,4 +16,6 @@ The project will be presented on September 16, 2020 virtually. The intended audi
 
 ## Data Sources
 
+![image](https://user-images.githubusercontent.com/61078217/92277985-148ead80-eea9-11ea-8bbd-6335cdac17a0.png)
+
 ## Project Process
