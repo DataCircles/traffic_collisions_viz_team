@@ -19,9 +19,7 @@ The project will be presented on September 15, 2020 virtually. The intended audi
 
 ## Data Sources
 
-![image](https://user-images.githubusercontent.com/61078217/92277985-148ead80-eea9-11ea-8bbd-6335cdac17a0.png)
-
-![image](https://jendefig.github.io/README_sankey.html)
+![image](https://user-images.githubusercontent.com/61078217/92818969-2676c180-f37d-11ea-9280-3138df7c621b.png)
 
 We started out with the dataset of collisions over the period 2004-2020 from the Seattle Department of Transportation. For greater insight, we merged other datasets of Seattle Traffic data over the same time period. Due to the nature our of project and its significant mapping emphasis, we dropped observations from the original that were missing x,y coordinate data. We also did not include data from 2020 in our analysis.
 
