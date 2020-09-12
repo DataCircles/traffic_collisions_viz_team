@@ -25,10 +25,10 @@ We started out with the dataset of collisions over the period 2004-2020 from the
 
 Links to sources of external datasets:
 
-Collisions (2004 to present): https://data.seattle.gov/Land-Base/Collisions/9kas-rb8d
-2018 Traffic Flows: https://data.seattle.gov/Land-Base/2018-Traffic-Flow-Counts/e9vy-mn8x 
-Intersections: https://data.seattle.gov/Land-Base/Intersections/nbqq-weet
-Census Tracts: https://data.seattle.gov/Land-Base/2010-Census-Tracts/mx32-gjtt
+- Collisions (2004 to present): https://data.seattle.gov/Land-Base/Collisions/9kas-rb8d
+- 2018 Traffic Flows: https://data.seattle.gov/Land-Base/2018-Traffic-Flow-Counts/e9vy-mn8x 
+- Intersections: https://data.seattle.gov/Land-Base/Intersections/nbqq-weet
+- Census Tracts: https://data.seattle.gov/Land-Base/2010-Census-Tracts/mx32-gjtt
 
 
 ## Project Process
