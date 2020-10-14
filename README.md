@@ -45,3 +45,5 @@ From these five problem areas, we chose X specific locations to feature on a sep
 The final project is available for viewing on Tableau Public:
 
 https://public.tableau.com/profile/rebecca.stewart#!/vizhome/SeattleProblemAreasandLocationsbySeverityofCollisions/SeattleProblemAreasAnalysisofCollisionsbyLocation?publish=yes
+
+You may also view the presentation of this project starting at 5:28 here:  https://youtu.be/7toIGRqJPBw
